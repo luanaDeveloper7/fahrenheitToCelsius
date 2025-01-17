@@ -24,7 +24,7 @@ section{
     font-family: var(--primary-font);
 }
 
-.inputsContainer{
+.inputContainer{
     display: flex;
     flex-direction: column;
     justify-content: center;
