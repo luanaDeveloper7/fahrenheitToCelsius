@@ -1,5 +1,6 @@
 const submitButton =  document.querySelector(".submitButton");
 let celsiusTemperatureText = document.querySelector(".celsiusValue");
+
 submitButton.addEventListener("click", convertFahrenheintInCelsius);
 
 document.addEventListener("keydown", (keyDownEvent) =>{
